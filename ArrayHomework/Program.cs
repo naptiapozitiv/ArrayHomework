@@ -1,4 +1,4 @@
-﻿Console.WriteLine("lox");
+﻿Console.WriteLine("ti lox");
 
 
 
