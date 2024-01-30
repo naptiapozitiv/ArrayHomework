@@ -14,6 +14,7 @@ for (int i = 0; i < numberStrings.Length; i++)
     {
         Console.WriteLine($"Invalid input: {numberStrings[i]} is not a valid number.");
         return;
+        Console.WriteLine( ' ');
     }
 }
 
